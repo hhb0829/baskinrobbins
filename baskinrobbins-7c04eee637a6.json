@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "baskinrobbins",
+  "private_key_id": "7c04eee637a67fe7e2fa969c434c90fd25e799d2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDISNy2jjfZ6FEO\nwSf7u08NMMcFbzlsiJyx0JrgKf5RhhsVbcLFKxQdSQ7zZ0McxCz5ZEkXSXoO7JDI\n4JJPPlNSF1+8EgMJgFeh/yVKYQ46aHFU2yA8PjMCixTz7d89OR9z9lWEKVJS0PNi\nfjTI/SRhzEt4+AQzmAhe/ddiUrayq8zOdLHjNgjfn27mo/kzSPfgbrbO9FtG1bQf\nNhDx3GW92GC+yKmioGnpOSVgnL4lUkmAmn1wqLYFADibfj8hpiVdsC5wyjhb5ov5\ne1eDKOc/TVOx/cKsMvVkLD3pVmF8FiFrKzzVr03nhrE0xbf8yzh6q+7/xJqd0MGa\nkpOeWe3ZAgMBAAECggEAD5jaVKkh9lPzhAeiGnt4E4SPQIAXOQ7bzQkmwSWOtZXm\nTraRKr5JFGLCdE1qr4x4yCR5gK5rKqBc7MJ4V7gjJaBxByS2nIB50pbGYP11QzKA\n/jpg+fAKFDz1MRh+1bYOGf9pTMp/AQ4JS3adRmMC+KQVOI1v86iiS5YkYMwk3X2v\nkNj9I+qMgorSGYdFZSFlvd6ttneSVkwGFmbMZefZad7iPYVulWkrP7CCozq0rouS\nq7XrLSnRZsaxCvRwjgkg1o84NrqsfmkRRPBp4MzBXW50FjLJDUXlrf+3fZxP1Qt2\n9MO0GSs+YTHMPwzIpgiC5Vj+6f9F5h+ZkIi+mMc7hQKBgQDul+PMPxaLEm8lfCRV\nEe0fV5M2VM1JbXqW8OVZitempx4INZmQLCUijj6q8A8v+sJyzuFv4kyf4sWsHDc3\nXQFnIFTgdP93QKi+yA9yECWsNIjNRFtbB6C5WM7q03J17Jgvyy893+hGn73OspjL\npd12aV4C3LOUZnJ8470D3Qtp/wKBgQDW5X8OsYgFLce84jH7BVAhq9TRbZktRsUu\n4f6DoqnBwuVG+e077j4eB9eIpeOmrpH8FSkduGCbINYWXxE3bgQv70V2g/Lau+R7\njIcouEkHRH6GoTBHPI8CjKyE9ipn/Vgfhs3sKA3X9SD6JDlpVK4kWtgqwPX5/aR5\ngl45a5M4JwKBgQDCwrgPzNvhEF4sMicSTjzK3djse9LLgpOUTPZa3oxknHxWZTKC\nTpbNm2GqdaVgHAjIYPoDM64qwZlsgefMyJ3RicHfK4Ix3VUhzvtUt7uY05VsQcV1\nDEf1pHnblFkVy9j7ApgAoRrhM5pj9MPnUPDzrNUx7uikVfBU5C4xzil4DwKBgADR\nBGeQ4xxp7R1ZmqkCfyhxl7BoAzH519vyvd3QK2byD57yaiVVJWVF0FrTjobemO1l\nQy+6uJs+R7H0EIOuZlOsTA5EOBL+rcKOaSENejGN4BEw4ZcTstNmp20l5klY3BHa\nmEOyb0MHymVI5/LvgG3g7ntTGlwly48uoJ8FOpz3AoGBANNoqe6qfcKghWgb4s2Q\nTyXP7hyevYYix6/4eZjFx7mXD7K8n7MvuY/Lqf4aibYsvuLfzGiY+WiTMEqa5M1o\nbbqreTbtVwWiugLncMQjtcjqXZ1TCKhzy3SOZawNkgsrGIEunfcawlM7eZ6cHyYF\nd2hN3nljthxmTnA1PppIfDQg\n-----END PRIVATE KEY-----\n",
+  "client_email": "baskinrobbins@baskinrobbins.iam.gserviceaccount.com",
+  "client_id": "110446925139041735597",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/baskinrobbins%40baskinrobbins.iam.gserviceaccount.com"
+}
