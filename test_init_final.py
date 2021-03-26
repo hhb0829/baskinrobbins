@@ -1994,12 +1994,7 @@ class mainCog(commands.Cog):
 				result3 = wks.acell(basicSetting[25]).value
 
 				embed = discord.Embed(
-						description= '```' + SearchID + ' 님이 받을 다이야는 '
-						description= '```' + ' 랑이: ' + Result(/n)
-						description= '```' + ' 짤랑: ' + Result1(/n)
-						description= '```' + ' 발랑발랑: ' + Result2(/n)
-						description= '```' + ' 라함말랑: ' + Result3(/n)
-						description= '```' + ' 다이야 입니다.```',
+						description= '```' + SearchID + ' 님이 받을 다이야는 '\n + ' 랑이 ' + result + ' 다이야 입니다.```'\n,' 짤랑 ' + result1 + ' 다이야 입니다.```'\n,' 발랑발랑 ' + result2 + ' 다이야 입니다.```'\n,' 라함말랑 ' + result3 + ' 다이야 입니다.```',
 						color=0xff00ff
 						)
 				await ctx.send(embed=embed, tts=False)
