@@ -1995,10 +1995,10 @@ class mainCog(commands.Cog):
 
 				embed = discord.Embed(
 						description= '```' + SearchID + ' 님이 받을 다이야는 '
-						description= '```' + ' 랑이 : ' + Result
-						description= '```' + ' 짤랑 : ' + Result1
-						description= '```' + ' 발랑발랑 : ' + Result2
-						description= '```' + ' 라함말랑 : ' + Result3
+						description= '```' + ' 랑이: ' + Result
+						description= '```' + ' 짤랑: ' + Result1
+						description= '```' + ' 발랑발랑: ' + Result2
+						description= '```' + ' 라함말랑: ' + Result3
 						description= '```' + ' 다이야 입니다.```',
 						color=0xff00ff
 						)
